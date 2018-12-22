@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/ivan/OneDrive/Ivan/dev/kaggle/SanFranCrime/src/main/scala/Algorithms/Model.scala:32:15: too many arguments for method setInput: (features: (com.salesforce.op.features.FeatureLike[com.salesforce.op.features.types.RealNN], com.salesforce.op.features.FeatureLike[com.salesforce.op.features.types.OPVector]))com.salesforce.op.stages.impl.selector.ModelSelector[com.salesforce.op.stages.impl.selector.ModelSelectorNames.ModelType,com.salesforce.op.stages.impl.selector.ModelSelectorNames.EstimatorType][0m
+[0m[[0m[31merror[0m] [0m[0m    ).setInput(targetResponse, featureVectorRaw)[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
